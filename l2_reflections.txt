@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initializing a repository gives access to the history of changes made to the files in a particular directory or repository. That's why
+I am using git for!
