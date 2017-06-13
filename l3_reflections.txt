@@ -1,0 +1,3 @@
+When would you want to create a remote repository rather than keeping all your work local?
+
+I would rather create a remote repository than keeping all my work local when i want others also to contribute to my project and suggest changes.
