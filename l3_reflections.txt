@@ -7,7 +7,8 @@ when I want others also to contribute to my project and suggest changes.
 Why might you want to always pull changes manually rather than having Git 
 automatically stay up-to-date with your remote repository?
 
-  I actually don't know :-)
+  Due to cases like if  sometimes someone contributes to a different branch of the same repository that we don't want to incorporate in our version,
+we might want to always pull changes manually.  
 
 Describe the differences b/w forks, clones & branches. When
 would you use one instead of another?
@@ -17,3 +18,27 @@ would you use one instead of another?
 GitHub to our local computer
   -branches are other versions of the same file that some other
 contributors might be working upon
+
+What is the benifit of having a copy of the last known state of
+the remote stored locally?
+
+  In cases when we make changes to a repository locally & want
+to update it later on GitHub, the last known state of the remote
+stored locally comes into play.
+
+How would you collaborate without using Git & GitHub? What would
+be easier, & what would be harder?
+
+  -I have been searching for this type of VCS until now. I don't
+anything would be easier. 
+  -However, collaborating through Google
+Drive would be much harder.
+
+When would you want to make changes to a seperate branch rather
+than directly in master? What benifits does each approach have?
+
+  -When other collaborators are working on the repository, I
+would make changes to a seperate branch rather than directly in
+master so that they can review the changes. 
+  -Making changes directly into the master saves us from the
+hectic process of resolving merge conflicts, if any.
